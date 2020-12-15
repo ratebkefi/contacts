@@ -1,0 +1,28 @@
+<p>Edit-contact</p>
+<div class="col-sm-8 col-sm-offset-2">
+    <form [formGroup]="contactForm" (ngSubmit)="onSubmitForm()">
+      <div class="form-group">
+        <label for="firstName">Prénom</label>
+        <input type="text" id="firstName" class="form-control" formControlName="firstName">
+      </div>
+      <div class="form-group">
+        <label for="lastName">Nom</label>
+        <input type="text" id="lastName" class="form-control" formControlName="lastName">
+      </div>
+      <div class="form-group">
+        <label for="email">Adresse e-mail</label>
+        <input type="text" id="email" class="form-control" formControlName="email">
+      </div>
+
+      <div formArrayName="hobbies">
+        <h3>Tags</h3>
+        <div class="form-group" *ngFor="let hobbyControl of getHobbies().controls; let i = index">
+          <input type="text" class="form-control" [formControlName]="i">
+        </div>
+        <button type="button" class="btn btn-success" (click)="onAddHobby()">Ajouter un tags</button>
+  </div>
+  <br>
+  <br>
+  <button type="submit" class="btn btn-primary" [disabled]="contactForm.invalid">Soumettre</button>
+    </form>
+  </div>

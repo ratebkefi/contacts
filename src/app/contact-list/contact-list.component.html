@@ -1,0 +1,21 @@
+<a routerLink="/new-contact">Ajouter Contact</a>
+
+<ul class="list-group">
+  
+    <li class="list-group-item" *ngFor="let contact of contacts">
+      <h3>{{ contact.firstName }} {{ contact.lastName }}</h3>
+      <p>{{ contact.email }}</p>
+      <p>Cette persone préfère le {{ contact.drinkPreference }}</p>
+      <p *ngIf="contact.hobbies && contact.hobbies.length > 0">
+        Cette personne a des Tags !
+        <span *ngFor="let hobby of contact.hobbies">{{ hobby }} - </span>
+      </p>
+      <button class="btn btn-danger"
+      (click)=" deleteContact(contact)">Supprimer</button>      <br><br>
+      
+      <a [routerLink]="[contact.id]">Modifier Contact</a>
+
+
+
+    </li>
+  </ul>
