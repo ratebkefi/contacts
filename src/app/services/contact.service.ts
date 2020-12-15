@@ -23,14 +23,20 @@ export class ContactService {
 
   EditContact(contact: Contact) {
     console.log(contact);
-    this.contacts.splice(contact.id,(contact.id)+1);
+    const index: number = this.contacts.indexOf(contact);
+    console.log(index);
+    this.contacts.splice(index,1);
     this.contacts.push(contact);
     this.emitContacts();
   }
 
 
   deleteContact(contact: Contact) {
-    this.contacts.splice(contact.id,(contact.id)+1);
+    console.log(contact.id);
+    const index: number = this.contacts.indexOf(contact);
+    console.log(index);
+
+    this.contacts.splice(index,1);
     this.emitContacts();
   }
 
