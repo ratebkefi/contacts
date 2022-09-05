@@ -55,7 +55,8 @@ Subject + be (was : I, he , she, it) (were : you, we, they)+ verb(ing) =>  I was
 be going to (prediction based on facts)- decision deja prise dans le passé
 
 future simple : prediction (no sure) - decision spontanner pris maintenant , surprise
- : Subject + auxulliary verb (will)+ verb => I will tell you what happened ... (I will I'll, You will you'll, He will he’ll, She will she’ll, it will it'll, We we’ll , They will they’ll)
+ : Subject + auxulliary verb (will)+ verb => I will tell you what happened ... (I will I'll, You will you'll, He will he’ll, She will she’ll, it will
+ it'll, We we’ll , They will they’ll)
  ? : Will (auxulliary verb) + subject+ verb =>  Will you help me or what ?
  - : In negative : will not (won’t)  => I won't tell anyone Don't worry 
  
