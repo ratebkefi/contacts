@@ -25,7 +25,7 @@ past and present)
 ? :The auxiliary verb( have or has) + subject + verb (past participle : regular verb+ed/V3) => have you ever been to Brazil ?
  - : have not or haven't : has not or hasn't. + verb (past participle : regular verb+ed/V3) => I haven't heard from him in a while
  
-   present perfect continuous : debit dans le passer jusqu'a le moment de parler 
+Present perfect continuous : debit dans le passer jusqu'a le moment de parler 
  : Subject + auxiliary verb (have(i,you,we,they)(i've) or has(he,she,it) (he's) + been + verb + ing  => i have been waiting for you
 ? : have/has + i/he + been + verb + ing ? => have you been waiting for me all the time?
 -: haven't/hasn't +  been + verb + ing =>i haven't been waiting for her anymore 
@@ -41,6 +41,11 @@ Past Simple :  une action termine dans le passer : last year , yesterday, a mont
  subject + the auxiliary(had) + past participle of the verb. 3d=> she had prepared well before she took the test .
  ? : the auxiliary verb had goes before the subject => had you thought about your future before choosing college ?
  - : we use had not or hadn't before he past participle => he hadn't eaten anything before the driving test .
+ 
+  Past perfect continous : met l’accent sur l’activité qui était en cours, ou qui venait tout juste de s’achever
+   : HAD + BEEN + Verbe en ING. => I didn’t know what they had been talking about when I arrived
+ ? : auxiliary verb had + subject => how long had he been working for before the auditors arrived ?
+ - : had not or hadn't => they hadn't been working all this time before they were all fired .
  
 Be in past
 Was : singular nouns :
