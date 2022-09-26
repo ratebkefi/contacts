@@ -64,14 +64,20 @@ future simple : prediction (no sure) - decision spontanner pris maintenant , sur
  it'll, We we’ll , They will they’ll)
  ? : Will (auxulliary verb) + subject+ verb =>  Will you help me or what ?
  - : In negative : will not (won’t)  => I won't tell anyone Don't worry 
- 
 
- 
-
- 
- Present Perfect progressive : commencer au passer jusqu'a present , l'aaction est importante
+Present Perfect progressive : commencer au passer jusqu'a present , l'aaction est importante
  subject + auxiliary verb have or has + been + verb (ing). => I have been working on this paper for days.
  ? : Auxiliary verb + subject => what have you been doing since she left you ?
  - : Have not (haven’t). Has not hasen’t : No I haven't been drinking. It's my perfume.
+ 
+  furure perfect :
+ : will + have + verb V3 => I'll have finished when you arrive.
+?:
+-: will not (won’t) + have +  verb V3 => Anthony won't have arrived by then.
+
+future continuouse
+: Subject + will be + verb(ing) => I'll be watching you. Don't try anything stupid
+ ?: subject + ill + be => Where will you be flying today ?
+ -:won't be. => won't be watching you in the shower, don't worry .
  
  
