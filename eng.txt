@@ -70,7 +70,9 @@ Present Perfect progressive : commencer au passer jusqu'a present , l'aaction es
  ? : Auxiliary verb + subject => what have you been doing since she left you ?
  - : Have not (haven’t). Has not hasen’t : No I haven't been drinking. It's my perfume.
  
-  furure perfect :
+  furure perfect : We use the future perfect to describe an action that will happen sometime between now and a certain time in the 
+future. But we don't know exactly when it will happen. All we know is the time until when this action will happen.
+
  : will + have + verb V3 => I'll have finished when you arrive.
 ?:
 -: will not (won’t) + have +  verb V3 => Anthony won't have arrived by then.
