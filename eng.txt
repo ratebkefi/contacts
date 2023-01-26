@@ -78,6 +78,7 @@ future. But we don't know exactly when it will happen. All we know is the time u
 -: will not (won’t) + have +  verb V3 => Anthony won't have arrived by then.
 
 future continuouse
+At temporary reaction in progress that will be taking place in the future
 : Subject + will be + verb(ing) => I'll be watching you. Don't try anything stupid
  ?: subject + ill + be => Where will you be flying today ?
  -:won't be. => won't be watching you in the shower, don't worry .
