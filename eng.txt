@@ -19,7 +19,7 @@ Present Progressive (continuouse) :  en se moment
 - : Be  (am(i), are(you, we, they) , is(he, she, it )) + not + verb(ing) => you aren’t
 
 
-Present perfect : (ever : experience , still ) experience qui dure encore : ever , never , recently , lately , for , since , just , yet already (vonnect
+Present perfect : (ever : experience , still ) live experience qui dure encore : ever , never , recently , lately , for , since , just , yet already (vonnect
 past and present)
 + : Subject + auxiliary verb (have or has) + verb (past participle : regular verb+ed/V3) => I have bought a new car.
 ? :The auxiliary verb( have or has) + subject + verb (past participle : regular verb+ed/V3) => have you ever been to Brazil ?
