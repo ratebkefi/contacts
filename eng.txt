@@ -1,8 +1,64 @@
-present simple : routine
+1 ) present simple : routine
 + : ( he , she , it )  verb + S => Sam drinks coffee => “We like spring
 ? : Do + subject (“I, you, we, they”) + verb => Do I drink coffee every morning
 ? : Does + subject (“he, she, it”) + verb (no S) => “why does Paul often work late?
 - : Do not (don’t) or does not + verb (no s) =>I do not (don’t) work .. => My mom does not (doesn’t) like ...)
+
+2) Past Simple :  une action termine dans le passer : last year , yesterday, a month ago
++: Subject + verb(d or ed/V2) + object => I worked very hard last year (sauf irregular verb)
+? : Did (helping verb) + subject + verb (present form)  : Did you tell ..? (excpet were ans was)
+- : Did not , didn’t. + verb infinfinitif (without ed/V2) => I didn't steal your bubble gum (sauf was => wasn't , were => weren't) He loved watching
+
+3) future simple : prediction (no sure) - decision spontanner pris maintenant , surprise
+ : Subject + auxulliary verb (will)+ verb => I will tell you what happened ... (I will I'll, You will you'll, He will he’ll, She will she’ll, it will
+ it'll, We we’ll , They will they’ll)
+ ? : Will (auxulliary verb) + subject+ verb =>  Will you help me or what ?
+ - : In negative : will not (won’t)  => I won't tell anyone Don't worry
+
+4) Present Progressive (continuouse) :  en se moment
++ : Subject + be (am(i), are(you, we, they) , is(he, she, it )) + verb(ing)=> bark is sleeping on my bed.
+? :  be (am(i), are(you, we, they) , is(he, she, it )) +the subject => where is bark sleeping ?
+- : Be  (am(i), are(you, we, they) , is(he, she, it )) + not + verb(ing) => you aren’t
+
+5) Past Progressive  (continuouse) : une action a commencer dans le passer est n'est pas fini encore 
+Subject + be (was : I, he , she, it) (were : you, we, they)+ verb(ing) =>  I was working all night.
+? : Be + subject + verb(ing) => what were you doing at that bar ?
+- : Was not, wasn’t / Were not, weren’t  + verb(ing)=> shut up. I wasn't talking to you
+7) future continuouse : At temporary reaction in progress that will be taking place in the future
+: Subject + will be + verb(ing) => I'll be watching you. Don't try anything stupid
+ ?: subject + ill + be => Where will you be flying today ?
+ -:won't be. => won't be watching you in the shower, don't worry .
+
+8) Present perfect : (ever : experience , still ) live experience :  par exemple si j'ai visite un pays donc c'est presente perfect mais si je suis entrain de le visité c'est le present (On peux pas repondre a a question WHERE) (experience qui dure encore) (connect passe et present)
+ou une chose qui vient juste de finir (ever , never , recently , lately , for , since , just , yet already)
++ : Subject + auxiliary verb (have or has) + verb (past participle : regular verb+ed/V3) => I have bought a new car.
+? :The auxiliary verb( have or has) + subject + verb (past participle : regular verb+ed/V3) => have you ever been to Brazil ?
+ - : have not or haven't : has not or hasn't. + verb (past participle : regular verb+ed/V3) => I haven't heard from him in a while
+
+9) past perfect : We use it to describe an action that was completed before at the time in the past
+ subject + the auxiliary(had) + past participle of the verb. 3d=> she had prepared well before she took the test .
+ ? : the auxiliary verb had goes before the subject => had you thought about your future before choosing college ?
+ - : we use had not or hadn't before he past participle => he hadn't eaten anything before the driving test .
+10) furure perfect : We use the future perfect to describe an action that will happen sometime between now and a certain time in the 
+future. But we don't know exactly when it will happen. All we know is the time until when this action will happen.
++: will + have + verb V3 => I'll have finished when you arrive.
+?:
+-: will not (won’t) + have +  verb V3 => Anthony won't have arrived by then.
+ 
+11) Present perfect continuous : debut dans le passer jusqu'a le moment de parler 
+ : Subject + auxiliary verb (have(i,you,we,they)(i've) or has(he,she,it) (he's) + been + verb + ing  => i have been waiting for you
+? : have/has + i/he + been + verb + ing ? => have you been waiting for me all the time?
+-: haven't/hasn't +  been + verb + ing =>i haven't been waiting for her anymore 
+ 
+12) Past perfect continous : met l’accent sur l’activité qui était en cours, ou qui venait tout juste de s’achever
+   : HAD + BEEN + Verbe en ING. => I didn’t know what they had been talking about when I arrived
+ ? : auxiliary verb had + subject => how long had he been working for before the auditors arrived ?
+ - : had not or hadn't => they hadn't been working all this time before they were all fired .
+
+ Be in past
+Was : singular nouns :
+I was ,He was, she was it was. => I met my future wife When I was in high school.
+Were : plural nouns => I think we were on the same plane.
 
 Be in present
 I am (I'm)
@@ -12,75 +68,12 @@ We are (We're)
 You are (You're)
 They are (They're)
 
-
-Present Progressive (continuouse) :  en se moment
-+ : Subject + be (am(i), are(you, we, they) , is(he, she, it )) + verb(ing)=> bark is sleeping on my bed.
-? :  be (am(i), are(you, we, they) , is(he, she, it )) +the subject => where is bark sleeping ?
-- : Be  (am(i), are(you, we, they) , is(he, she, it )) + not + verb(ing) => you aren’t
-
-
-Present perfect : (ever : experience , still ) live experience :  par exemple si j'ai visite un pays donc c'est presente perfect mais si je suis entrain de le visité c'est le present (On peux pas repondre a a question WHERE) (experience qui dure encore) (connect passe et present)
-ou une chose qui vient juste de finir (ever , never , recently , lately , for , since , just , yet already)
-+ : Subject + auxiliary verb (have or has) + verb (past participle : regular verb+ed/V3) => I have bought a new car.
-? :The auxiliary verb( have or has) + subject + verb (past participle : regular verb+ed/V3) => have you ever been to Brazil ?
- - : have not or haven't : has not or hasn't. + verb (past participle : regular verb+ed/V3) => I haven't heard from him in a while
- 
-Present perfect continuous : debut dans le passer jusqu'a le moment de parler 
- : Subject + auxiliary verb (have(i,you,we,they)(i've) or has(he,she,it) (he's) + been + verb + ing  => i have been waiting for you
-? : have/has + i/he + been + verb + ing ? => have you been waiting for me all the time?
--: haven't/hasn't +  been + verb + ing =>i haven't been waiting for her anymore 
- 
- 
-Past Simple :  une action termine dans le passer : last year , yesterday, a month ago
-+: Subject + verb(d or ed/V2) + object => I worked very hard last year (sauf irregular verb)
-? : Did (helping verb) + subject + verb (present form)  : Did you tell ..? (excpet were ans was)
- - : Did not , didn’t. + verb infinfinitif (without ed/V2) => I didn't steal your bubble gum (sauf was => wasn't , were => weren't)
- He loved watching
- 
- past perfect : We use it to describe an action that was completed before at the time in the past
- subject + the auxiliary(had) + past participle of the verb. 3d=> she had prepared well before she took the test .
- ? : the auxiliary verb had goes before the subject => had you thought about your future before choosing college ?
- - : we use had not or hadn't before he past participle => he hadn't eaten anything before the driving test .
- 
-  Past perfect continous : met l’accent sur l’activité qui était en cours, ou qui venait tout juste de s’achever
-   : HAD + BEEN + Verbe en ING. => I didn’t know what they had been talking about when I arrived
- ? : auxiliary verb had + subject => how long had he been working for before the auditors arrived ?
- - : had not or hadn't => they hadn't been working all this time before they were all fired .
- 
-Be in past
-Was : singular nouns :
-I was ,He was, she was it was. => I met my future wife When I was in high school.
-Were : plural nouns => I think we were on the same plane.
-
-Past Progressive  (continuouse) : une action a commencer dans le passer est n'est pas fini encore 
-Subject + be (was : I, he , she, it) (were : you, we, they)+ verb(ing) =>  I was working all night.
-? : Be + subject + verb(ing) => what were you doing at that bar ?
-- : Was not, wasn’t / Were not, weren’t  + verb(ing)=> shut up. I wasn't talking to you
-
 be going to (prediction based on facts)- decision deja prise dans le passé
 
-future simple : prediction (no sure) - decision spontanner pris maintenant , surprise
- : Subject + auxulliary verb (will)+ verb => I will tell you what happened ... (I will I'll, You will you'll, He will he’ll, She will she’ll, it will
- it'll, We we’ll , They will they’ll)
- ? : Will (auxulliary verb) + subject+ verb =>  Will you help me or what ?
- - : In negative : will not (won’t)  => I won't tell anyone Don't worry 
-
-Present Perfect progressive : commencer au passer jusqu'a present , l'aaction est importante
- subject + auxiliary verb have or has + been + verb (ing). => I have been working on this paper for days.
- ? : Auxiliary verb + subject => what have you been doing since she left you ?
- - : Have not (haven’t). Has not hasen’t : No I haven't been drinking. It's my perfume.
  
-  furure perfect : We use the future perfect to describe an action that will happen sometime between now and a certain time in the 
-future. But we don't know exactly when it will happen. All we know is the time until when this action will happen.
+ 
 
- : will + have + verb V3 => I'll have finished when you arrive.
-?:
--: will not (won’t) + have +  verb V3 => Anthony won't have arrived by then.
 
-future continuouse
-At temporary reaction in progress that will be taking place in the future
-: Subject + will be + verb(ing) => I'll be watching you. Don't try anything stupid
- ?: subject + ill + be => Where will you be flying today ?
- -:won't be. => won't be watching you in the shower, don't worry .
+
  
  
