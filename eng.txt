@@ -25,6 +25,7 @@ Subject + be (was : I, he , she, it) (were : you, we, they)+ verb(ing) =>  I was
 ? : Be + subject + verb(ing) => what were you doing at that bar ?
 - : Was not, wasn’t / Were not, weren’t  + verb(ing)=> shut up. I wasn't talking to you
 7) future continuouse : At temporary reaction in progress that will be taking place in the future
+
 : Subject + will be + verb(ing) => I'll be watching you. Don't try anything stupid
  ?: subject + ill + be => Where will you be flying today ?
  -:won't be. => won't be watching you in the shower, don't worry .
