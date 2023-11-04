@@ -29,6 +29,7 @@ Subject + be (was : I, he , she, it) (were : you, we, they)+ verb(ing) =>  I was
 +: Subject + will be + verb(ing) => I'll be watching you. Don't try anything stupid
 ?: subject + ill + be => Where will you be flying today ?
 -:won't be. => won't be watching you in the shower, don't worry .
+(if have => will have V(ing))
 
 8) Present perfect : (ever : experience , still ) live experience :  par exemple si j'ai visite un pays donc c'est presente perfect mais si je suis entrain de le visité c'est le present (On peux pas repondre a a question WHERE) (experience qui dure encore) (connect passe et present)
 ou une chose qui vient juste de finir (ever , never , recently , lately , for , since , just , yet already)
